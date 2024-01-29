@@ -12,6 +12,7 @@
 .apresentacao__imagem__imagem {
   width: 90%;
   padding-top: 3%;
+  border-radius: 20px;
 }
 .cabecalho {
   padding: 2% 0% 0% 9%;
@@ -166,9 +167,7 @@ body {
   }
 }
 @media (max-width: 480px) {
-
   .cabecalho__menu {
-
     margin-bottom: 0%;
   }
   .cabecalho__menu__link {
